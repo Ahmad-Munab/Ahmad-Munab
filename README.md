@@ -12,7 +12,7 @@
 <a href="https://dev.to/ahmad munab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmad munab" height="30" width="40" /></a>
 <a href="https://fb.com/ahmad munab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad munab" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@munab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@munab" height="30" width="40" /></a>
-<a href="https://discord.gg/SmartMCuber#6583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SmartMCuber#6583" height="30" width="40" /></a>
+<a href="https://discord.gg/Constint#6583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Constint#6583" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
